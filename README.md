@@ -23,6 +23,44 @@ Asegúrate de estar dentro de la carpeta del proyecto y luego ejecuta:
 npm install express
 
 ```
+Para levantar el servidor o verificar que el código funcione:
+
+```bash
+npm start
+
+```
+Para iniciar el sistema de coontrol de versiones, es decir, crear el repositorio Git local en nuestra carpeta de proyecto:
+
+```bash
+git init
+```
+Para configurar el nombre del autor, es decir, asignar nuestro nombre completo:
+
+```bash
+git config user.name
+
+```
+Configurar elo correo del autor, es decir, asginar nuestro correo electrónico a nuestros commits:
+
+```bash
+git config user.email
+
+```
+Verificar la configuración, esto muestra una lista de las configuraciones de Git activas para confirmar que el nombre y el gmail se guardaron correctamente:
+
+```bash
+git config -- list
+```
+Mover archivos al Staging Area(Área de Preparación), es decir, selecciona todos los archivos nuevos y modificados de nuestra carpeta:
+
+```bash
+git add
+```
+Guardar permanentemente una veersión, es decir, toma todos los archivos que preparamos con git add. y los guarda en el historial de Git como un punto de control:
+
+```bash
+git commit -m "mensaje"
+```
 
 
 ---
