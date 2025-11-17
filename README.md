@@ -29,6 +29,7 @@ Para levantar el servidor o verificar que el código funcione:
 npm start
 
 ```
+## Configuración del entorno Git local
 Para iniciar el sistema de coontrol de versiones, es decir, crear el repositorio Git local en nuestra carpeta de proyecto:
 
 ```bash
@@ -66,7 +67,12 @@ git commit -m "mensaje"
 ---
 ## ⚙️ Estructura y comandos (Git)
 
-En esta sección se listan los comandos principales de Git utilizados:
+En esta sección se listan los comandos principales de Git utilizados durante la práctica:
 
+* git init: (COMPLETAR)
+* git add: (COMPLETAR)
+* git commit: (COMPLETAR)
+* git branch: (COMPLETAR)
+* git merge:
 
 
