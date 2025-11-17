@@ -76,6 +76,7 @@ En esta sección se listan los comandos principales de Git utilizados durante la
 * git add: (COMPLETAR)
 * git commit: (COMPLETAR)
 * git branch: (COMPLETAR)
-* git merge:
+* git merge: (COMPLETAR)
+* git push: (COMPLETAR)
 
 
