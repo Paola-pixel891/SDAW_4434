@@ -69,7 +69,8 @@ git commit -m "mensaje"
 
 ---
 ## ⚙️ Estructura y comandos (Git)
-## Información técnica añadida desde rama 1:
+
+## 🚦Información técnica añadida desde rama 1:
 En esta sección se listan los comandos principales de Git utilizados durante la práctica:
 
 * git init: (COMPLETAR)
@@ -79,7 +80,7 @@ En esta sección se listan los comandos principales de Git utilizados durante la
 * git merge: (COMPLETAR)
 * git push: (COMPLETAR)
 
-## Información técnica añadida desde rama 2:
+## 🚦Información técnica añadida desde rama 2:
 72f90f6 (HEAD -> rama2-paolastefani, origin/main, rama1-paolastefani, main) Revert "Style: Actualizado titulo principal a v1.0"
 41f3f68 Style: Actualizado titulo principal a v1.0
 d9ebe8f docs: Modificación del README con plantillas para comandos
