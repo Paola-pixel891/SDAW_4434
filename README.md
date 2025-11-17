@@ -29,7 +29,7 @@ Para levantar el servidor o verificar que el código funcione:
 npm start
 
 ```
-## Configuración del entorno Git local
+## 2️⃣ Configuración del entorno Git local
 Para iniciar el sistema de coontrol de versiones, es decir, crear el repositorio Git local en nuestra carpeta de proyecto:
 
 ```bash
@@ -52,6 +52,9 @@ Verificar la configuración, esto muestra una lista de las configuraciones de Gi
 ```bash
 git config -- list
 ```
+---
+
+## ❗Comandos usados cuando  realizamos algún cambio y queremos guardarlo en el repositorio
 Mover archivos al Staging Area(Área de Preparación), es decir, selecciona todos los archivos nuevos y modificados de nuestra carpeta:
 
 ```bash
