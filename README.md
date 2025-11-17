@@ -72,11 +72,11 @@ git commit -m "mensaje"
 
 En esta sección se listan los comandos principales de Git utilizados durante la práctica:
 
-* git init: (COMPLETAR)
-* git add: (COMPLETAR)
-* git commit: (COMPLETAR)
-* git branch: (COMPLETAR)
-* git merge: (COMPLETAR)
-* git push: (COMPLETAR)
+* git init: Inicializa un repositorio Git local.
+* git add: Añade archivos al área de seguimiento (staging area).
+* git commit: Guardar los cambios de forma permanente en el     historial.
+* git branch: Lista, crea o elimina ramas de desarrollo.
+* git merge: Combina el historial de desarrollo de una rama con otra.
+* git push: Sube los commits locales al repositorio remoto (GitHub).
 
 
