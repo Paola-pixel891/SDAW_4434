@@ -30,7 +30,7 @@ npm start
 
 ```
 ## 2️⃣ Configuración del entorno Git local
-Para iniciar el sistema de coontrol de versiones, es decir, crear el repositorio Git local en nuestra carpeta de proyecto:
+Para iniciar el sistema de control de versiones, es decir, crear el repositorio Git local en nuestra carpeta de proyecto:
 
 ```bash
 git init
